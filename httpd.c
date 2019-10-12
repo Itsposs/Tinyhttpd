@@ -30,6 +30,7 @@
 #define ISspace(x) isspace((int)(x))
 
 #define SERVER_STRING "Server: jdbhttpd/0.1.0\r\n"
+// standard input and output
 #define STDIN   0
 #define STDOUT  1
 #define STDERR  2
